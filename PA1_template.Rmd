@@ -1,5 +1,5 @@
 ---
-title   : "Preproducible Research Project 2, Coursera"
+title   : "Preproducible Research Project 1, Coursera"
 author  : Y.C. Chris Lau
 date    : "August 2018"  
 output: html_document
